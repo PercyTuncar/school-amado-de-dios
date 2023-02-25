@@ -1,0 +1,12 @@
+.textSlide p{
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.99));
+}
+.textSlide h1{
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.99));
+}
+
+@media only screen and (max-width: 768px) {
+  .textSlide h1{
+    font-size: 1px;
+  }
+}

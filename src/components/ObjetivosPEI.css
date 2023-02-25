@@ -1,0 +1,50 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.testimony .blockquote p{
+    font-size: 14px;
+}
+
+.text-color{
+  color: #A3A9AC;
+  
+}
+.text-color-title{
+  color: #EFF3F5;
+}
+.school{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.slideDataPEI {
+  width: 100%;
+  height: 250px;
+}
+
+@media only screen and (max-width: 650px) {
+	
+  .slideDataPEI {
+    height: auto;
+  }
+}
+.slideDataPEI .previousButton{
+  margin-left: 5%;
+  margin-top: -130px;
+}
+.slideDataPEI .nextButton{
+  margin-right: 5%;
+  margin-top: -130px;
+}
+
+
+.slideDataPEI .previousButton::before{
+  width: 50px;
+  height: auto;
+  content: "⬅️";
+}
+.slideDataPEI .nextButton::before{
+  right:0%;
+  width: 50px;
+  height: auto;
+  content: "➡️";
+}

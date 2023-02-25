@@ -1,0 +1,29 @@
+.banner_libro{
+margin-top: 100px;
+}
+.banner_libro img{
+  width: 300px;
+}
+.liibro_de_reclamaciones{
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+.libro_form{
+  border: 1px solid rgba(224, 224, 224, 0.144);
+  border-radius: 12px;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+@media only screen and (max-width: 1205px) {
+  .liibro_de_reclamaciones{
+    display: block;
+  }
+  
+  } 
+  .mas_info{
+    width: 80%;
+    margin: auto;
+  }

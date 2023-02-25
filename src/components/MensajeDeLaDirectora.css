@@ -1,0 +1,21 @@
+@media only screen and (max-width: 768px) {
+  .sub-container {
+    display: block;
+  }
+}
+.sub-container{
+  margin-bottom: 40px;
+  width: 90%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.homePage span{
+  color: #fff;
+}
+.container-left{
+  padding: 60px;
+}
+.container-img img{
+  border-radius: 12px;
+}
