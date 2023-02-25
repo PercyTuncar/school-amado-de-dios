@@ -7,7 +7,7 @@ const content = [
   {
     title: "Bienvenidos a la familia Amadina!",
     description:
-      "Somos una institución educativa con 32 años de experiencia brindando un Servicio Educativo que promueve el desarrollo integral y pleno de nuestros estudiantes",
+      "Somos una institución educativa con 33 años de experiencia brindando un Servicio Educativo que promueve el desarrollo integral y pleno de nuestros estudiantes",
     image: "https://firebasestorage.googleapis.com/v0/b/amado-de-dios.appspot.com/o/Assets%20-%20Amado%20de%20Dios%2FNi%C3%B1os-levantando-la-mano%202(1).jpg?alt=media&token=6d4f2bf1-18f7-4293-9df1-4879676ac2d2"
   },
   {

@@ -49,7 +49,7 @@ export default () => (
       </div>
       <div className='col-md-7 texto_nosotros'>
         <div className='content text-color'>
-             <p> Somos una institución educativa con 32 años de experiencia brindando 
+             <p> Somos una institución educativa con 33 años de experiencia brindando 
               un Servicio Educativo que promueve el desarrollo integral y pleno de
               nuestros estudiantes, Buscamos formar personas autónomas y 
               dialogantes, que aprendan a pensar críticamente, desarrollen 

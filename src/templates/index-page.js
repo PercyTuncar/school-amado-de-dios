@@ -68,7 +68,7 @@ const HomePage = ({ data }) => {
                           <div className="collapse tarjeta" id="collapseExample">
                             <div className="card card-body">
                             <div className="card card-body">
-                            <span className="stats-description description_responsive">Somos Amadinos, más de 32 años al servicio de la educación. de Tradición y Excelencia Educativa. <br/><br/>
+                            <span className="stats-description description_responsive">Somos Amadinos, más de 33 años al servicio de la educación. de Tradición y Excelencia Educativa. <br/><br/>
                                           <a href="#contacto"> Contáctenos » <span role="img" aria-label="donut">👇</span> </a>
                                           </span>
                             </div>
