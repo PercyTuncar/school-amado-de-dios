@@ -12,7 +12,7 @@
     "url": "https://github.com/stackrole/gatsby-starter-foundation/issues"
   },
   "scripts": {
-    "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --openssl-legacy-provider --log-pages",
+    "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true export NODE_OPTIONS=--openssl-legacy-provider; gatsby build --log-pages",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop --openssl-legacy-provider start",
