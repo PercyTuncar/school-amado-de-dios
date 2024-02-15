@@ -30,7 +30,7 @@ const HomePage = ({ data }) => {
                   </div>
           </div>
        <div className="aniversarioImg">
-         <img src="https://firebasestorage.googleapis.com/v0/b/amado-de-dios.appspot.com/o/2023%20IEP%20AMADO%20DE%20DIOS%20ANIVERSARIO.png?alt=media&token=8a419b2a-77cb-49ea-808c-faf338c282f3" alt='30 años del colegio amado de dios'/>
+         <img src="https://firebasestorage.googleapis.com/v0/b/tuncardev-e0edd.appspot.com/o/2024%20IEP%20AMADO%20DE%20DIOS%20ANIVERSARIO.png?alt=media&token=1a60657a-1b3b-4b08-832e-016e9087a0a4" alt='30 años del colegio amado de dios'/>
        </div>
        <ObjetivosPEI/>
        <section className='container-fluid'>
@@ -75,7 +75,7 @@ const HomePage = ({ data }) => {
                             <div className="stats-asset">
                                 <h1 className="stats-item-counter text-color-title"> Realiza Pagos	</h1>
                                 <span className="stats-subject">Pensado en su comodidad</span>
-                                <a href="https://firebasestorage.googleapis.com/v0/b/amado-de-dios.appspot.com/o/INFORMACION%20DE%20SERVICIO%20EDUCATIVO%20INICIAL%20PRIMARIA%20Y%20SECUNDARIA%202023.pdf?alt=media&token=cab95990-2a89-4f41-9fd8-5c15bd6488d0" target="_blank" rel="noopener noreferrer"> Costo, matrícula y pensión <GetAnio/> haciendo click aquí </a>
+                                <a href="https://firebasestorage.googleapis.com/v0/b/tuncardev-e0edd.appspot.com/o/INFORMACION%20DE%20PRESTACION%20DE%20SERVICIOS.pdf?alt=media&token=f9a2d4d4-3798-4946-a8a6-9ad8a67464eb" target="_blank" rel="noopener noreferrer"> Costo, matrícula y pensión <GetAnio/> haciendo click aquí </a>
                             </div>
                             </div>
                           </div>

@@ -28,7 +28,7 @@ export default () => {
         
       
         <div className="text-color-title text-center banner_libro">
-          <h1>Libro de reclamaciones 2023</h1>
+          <h1>Libro de reclamaciones 2024</h1>
           <img  src='https://firebasestorage.googleapis.com/v0/b/amado-de-dios.appspot.com/o/illustrations%2Fundraw_Bibliophile_hwqc.svg?alt=media&token=2d94e36c-1ed5-4415-8c0f-255115de40f8' alt="imagen-del-libro-de-reclamaciones"/>
         </div>
        

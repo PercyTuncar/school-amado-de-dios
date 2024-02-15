@@ -31,7 +31,7 @@ export default () => (
                 <div className="texto_inicial">
                   <h1 className="text-color-title-left inicial_banner_title">Educación Secundaria</h1>
                   <h3 className="text-color-verde">Lunes a Viernes de 8:00 a. m. a 1:45 p. m.</h3>
-                  <p className="text-color inicial_banner_description">Este año 2023 el tipo de prestación de servicio educativo es semipresencial en concordancia con la resolución ministerial   <br/> 531-2021-MINEDU
+                  <p className="text-color inicial_banner_description">Este año 2024 el tipo de prestación de servicio educativo es semipresencial en concordancia con la resolución ministerial   <br/> 531-2021-MINEDU
 
 </p>
                  <br/>
